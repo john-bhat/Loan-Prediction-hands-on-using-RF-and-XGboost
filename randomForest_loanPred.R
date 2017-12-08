@@ -1,4 +1,4 @@
-getwd()
+#getwd()
 setwd("C:/Users/admin/documents")
 
 loan<-read.csv("loan_pre_train.csv",na.strings = c("",NA))
